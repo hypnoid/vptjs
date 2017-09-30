@@ -14,10 +14,10 @@
   "plugins": [
     "lunr",
     "search",
-   // "summary",
     "tbfed-pagefooter",
     "expandable-chapters-small",
-    "copy-code-button"
+    "copy-code-button",
+    "-summary"
   ],
   "pluginsConfig": {
     "tbfed-pagefooter": {
