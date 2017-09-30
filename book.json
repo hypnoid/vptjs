@@ -14,7 +14,7 @@
   "plugins": [
     "lunr",
     "search",
-    "summary",
+   // "summary",
     "tbfed-pagefooter",
     "expandable-chapters-small",
     "copy-code-button"
