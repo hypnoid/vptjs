@@ -1,0 +1,47 @@
+{
+  "title": "VueJs Mini Book",
+  "description": "VueJs Methods Writen By yevpt.",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "yevpt": ""
+    }
+  },
+  "direction": "ltr",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "lunr",
+    "search",
+    "summary",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "copy-code-button"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "Writen By yevpt",
+      "modify_label": "modify: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "sharing": {
+      "weibo": true,
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper"
+      ]
+    }
+  }
+}
